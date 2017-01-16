@@ -14,7 +14,7 @@ namespace BackGroundJobs.Processors
     {
         public override async Task<int> Run()
         {
-            _log.Info("Test Processor Sucessfully Called -- All the things setup correctly !");
+            _log.Info("Test Processor Sucessfully Called -- All the things setup correctly!");
             return 1;
         }
 
