@@ -52,3 +52,31 @@ C:\Users\MansonMa.JDBHOLDINGS\Documents\BaseBackGroundProcessor\BackGroundJobs\b
 C:\Users\MansonMa.JDBHOLDINGS\Documents\BaseBackGroundProcessor\BackGroundJobs\obj\Debug\BackGroundJobs.csprojResolveAssemblyReference.cache
 C:\Users\MansonMa.JDBHOLDINGS\Documents\BaseBackGroundProcessor\BackGroundJobs\obj\Debug\BackGroundJobs.exe
 C:\Users\MansonMa.JDBHOLDINGS\Documents\BaseBackGroundProcessor\BackGroundJobs\obj\Debug\BackGroundJobs.pdb
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\BackGroundJobs.exe.config
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\NLog.config
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\BackGroundJobs.exe
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\BackGroundJobs.pdb
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Autofac.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Autofac.Extras.NLog.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.Core.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.NLog41.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\NLog.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Topshelf.Autofac.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Topshelf.Common.Logging.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Topshelf.dll
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Autofac.xml
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.pdb
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.xml
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.Core.pdb
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.Core.xml
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.NLog41.pdb
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Common.Logging.NLog41.xml
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\NLog.xml
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\Topshelf.xml
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\obj\Debug\BackGroundJobs.csprojResolveAssemblyReference.cache
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\obj\Debug\BackGroundJobs.exe
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\obj\Debug\BackGroundJobs.pdb
+C:\Users\MansonMa.JDBHOLDINGS\Desktop\Road to R\BaseBackGroundProcessor\BackGroundJobs\bin\Debug\NCrontab.Advanced.dll
